@@ -1,0 +1,3 @@
+[submodule "statsdplugin"]
+	path = statsdplugin
+	url = git@github.com:hostedgraphite/statsdplugin.git
