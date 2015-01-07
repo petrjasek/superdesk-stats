@@ -1,0 +1,10 @@
+{
+  "name": "stats",
+  "version": "0.0.0",
+  "description": "Stats config for superdesk",
+  "author": "Petr Jasek",
+  "license": "GPLv3",
+  "dependencies": {
+    "statsd": "^0.7.2"
+  }
+}
